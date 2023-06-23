@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://CoadjuteLTD@dev.azure.com/CoadjuteLTD/Coadjute/_git/frontend"
   },
-  "author": "coadjute",
+  "author": "mayur",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.11.0",
